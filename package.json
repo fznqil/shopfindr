@@ -1,0 +1,12 @@
+{
+  "name": "shopfindr",
+  "version": "1.0.0",
+  "description": "ShopFindr - Website that allows users to search and compare products between multiple e-commerce platforms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
